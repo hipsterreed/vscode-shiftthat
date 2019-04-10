@@ -1,7 +1,7 @@
 {
 	"name": "shiftthat",
 	"displayName": "Shift That",
-	"description": "Sorts/organizes user or workspace settings",
+	"description": "Sort your user or workspace settings",
 	"version": "0.1.1",
 	"publisher": "JimmyArroyo",
 	"repository": {
