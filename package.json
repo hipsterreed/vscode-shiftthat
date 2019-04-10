@@ -2,7 +2,7 @@
 	"name": "shiftthat",
 	"displayName": "Shift That",
 	"description": "Sorts/organizes user or workspace settings",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"publisher": "JimmyArroyo",
 	"repository": {
 		"type": "git",
