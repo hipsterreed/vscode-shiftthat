@@ -1,9 +1,12 @@
 # Change Log
 
-All notable changes to the "shiftthat" extension will be documented in this file.
+All notable changes to the code will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [0.0.1]
 
-## [Unreleased]
-
-- Initial release
+- Named **ShiftThat**
+- Allow sorting of user settings alphabetically
+- Allow sorting of workspace settings alphabetically
+- Add ShiftThat icon
+- Added README.md
+- Made commands use `ShiftThat:` prefix
