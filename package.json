@@ -3,7 +3,7 @@
 	"displayName": "Shift That",
 	"description": "Sorts/organizes user or workspace settings",
 	"version": "0.0.1",
-	"publisher": "Jimmy Arroyo",
+	"publisher": "JimmyArroyo",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/JamesRArroyo/vscode-shiftthat"
@@ -19,11 +19,11 @@
 	"activationEvents": [
 		"onCommand:extension.shiftThatUser",
 		"onCommand:extension.shiftThatWorkspace"
-
 	],
 	"main": "./out/extension.js",
 	"contributes": {
-		"commands": [{
+		"commands": [
+			{
 				"command": "extension.shiftThatUser",
 				"title": "ShiftThat: User Settings"
 			},
