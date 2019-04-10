@@ -9,7 +9,7 @@
 		"url": "https://github.com/JamesRArroyo/vscode-shiftthat"
 	},
 	"homepage": "https://github.com/JamesRArroyo/vscode-shiftthat/blob/master/README.md",
-	"icon": "resources/shiftthat-icon.png",
+	"icon": "resources/shiftthat-logo.png",
 	"engines": {
 		"vscode": "^1.32.0"
 	},
