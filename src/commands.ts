@@ -42,6 +42,8 @@ function saveSettings(settingsUri: string, settings: Object): void {
 	fs.writeFile(settingsUri, JSON.stringify(settings, null, 2), (err: Error) => {
 		if(err) {
 		  console.error(err);
-		}
+		} else {
+            vscode.window.showInformationMessage('ShiftThat: Settings Shifted!!!');
+        }
 	}); 
 }
